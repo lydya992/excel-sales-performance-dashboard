@@ -85,7 +85,7 @@ Screenshots of each cleaning step are included in the Screenshots folder.
 
 ---
 
-## Dashboard Preview
+
 
 ## Dashboard Preview
 
